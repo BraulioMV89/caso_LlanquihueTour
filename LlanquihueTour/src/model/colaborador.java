@@ -9,7 +9,7 @@ public class colaborador extends persona{
     private String cargo;
 
     /**
-     * Esta clase hereda los atributos de persona
+     * Esta clase hereda los atributos de la clase persona
      * @param cargo con este String se representa el cargo que tiene una persona
      * en caso de que sea trabajador o colaborador de Llanquihue tour.
      */
