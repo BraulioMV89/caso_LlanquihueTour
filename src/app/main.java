@@ -50,7 +50,7 @@ public class main {
         
             rut rutColaborador2 = new rut ("18993421-2", "Colaborador 2");
             
-            correo correoColaborador2 = new correo("j.riquelme88llanquihuetour.cl", "Colaborador 2");
+            correo correoColaborador2 = new correo("j.riquelme88@@llanquihuetour.cl", "Colaborador 2");
             
             direccion direccionColaborador2 = new direccion ("Los Copihues", 1234, "Poblacion O'Higgins", "Puerto Montt", "Los Lagos");
             
